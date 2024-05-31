@@ -15,3 +15,4 @@ ok echo
 tuyetvoi
 common
 hahu
+kura
