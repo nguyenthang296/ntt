@@ -17,3 +17,4 @@ common
 hahu
 kura
 HGUY
+huys
